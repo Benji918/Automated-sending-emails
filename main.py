@@ -4,8 +4,8 @@ import datetime as dt
 import random
 import smtplib
 
-MY_EMAIL = 'kodiugos@gmail.com'
-PWD = 'llhytkakbfhnikci'
+MY_EMAIL = ''
+PWD = ''
 today = dt.datetime.now()
 MONTH = today.month
 DAY = today.day
